@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/babaissarkar/ssplot/archive/refs/tags/v2.2.4.tar.gz",
-                    "sha256": "b146063a4cc30353e9bc72feee695cc6dbdd9e3784c98fc3a590f64559ffc6ee"
+                    "url": "https://github.com/babaissarkar/ssplot/archive/refs/tags/v2.2.5.tar.gz",
+                    "sha256": "82eb6e90ad46abf7f7bfdbc46e2661a73c12287f9c07389a7b6e9074eb7982f5"
                 },
                 {
                     "type": "file",
